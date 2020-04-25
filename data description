@@ -1,0 +1,6 @@
+2. Data description
+To consider the problem we can list the datas as below:
+I used Neighbourhoods in wiki to create choropleth map of Housing Sales Price and rents Index of Toronto, and the choropleth map of population density.
+I used https://www.compareschoolrankings.org to get the ranking of elementary school in Toronto
+I used ‘Crime in Toronto’ in wiki to get the crime map of Toronto.
+I used Forsquare API to get the most common of company given Borough of Toronto.
